@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Răzvan</h1>
-<h3 align="center">An energetic and ambitious 2nd year College Student, passionate about Computer Science and Art</h3>
+<h3 align="center">A 2nd year College Student, passionate about Computer Science and Art</h3>
 
 - 🔭 I’m currently studying at **Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Răzvan</h1>
-<h3 align="center">A Romanian 2nd year College Student</h3>
+<h3 align="center">A Romanian 3rd year College Student</h3>
 
 - 🔭 I’m currently studying at **Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest**
 
